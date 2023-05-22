@@ -14,5 +14,5 @@ function loadMainMenu() {
 
 function loadImageWithMap(img, map) {
   document.querySelector('.container').src = '/gametube/' + img;
-  document.querySelector('.container').usemap = '#' + map;
+  document.querySelector('.container').useMap = '#' + map;
 }
