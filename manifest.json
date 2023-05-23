@@ -1,20 +1,20 @@
 {
   "icons": [
     {
-      "src": "/gametube/512.png",
+      "src": "/hkc/512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "/gametube/192.png",
+      "src": "/hkc/192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "name": "GameTube: Offline",
-  "shortname": "GameTube",
-  "id": "/gametube/?source=pwa",
-  "start_url": "/gametube/",
+  "name": "Hollow Knight Collector",
+  "shortname": "HK Collector",
+  "id": "/hkc/?source=pwa",
+  "start_url": "/hollowknightcollector/",
   "background_color": "#3367D6",
   "display": "fullscreen",
   "scope": "/",
