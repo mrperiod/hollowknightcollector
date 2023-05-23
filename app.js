@@ -1,7 +1,7 @@
 setTimeout(hideSplash, 1000);
 
 function hideSplash() {
-  loadImageWithMap('nav.png', 'nav-map');
+  loadImageWithMap('start.png', 'start-map');
 }
 
 function loadHome() {
@@ -13,6 +13,6 @@ function loadMainMenu() {
 }
 
 function loadImageWithMap(img, map) {
-  document.querySelector('.container').src = '/gametube/' + img;
+  document.querySelector('.container').src = '/hollowknightcollector/' + img;
   document.querySelector('.container').useMap = '#' + map;
 }
