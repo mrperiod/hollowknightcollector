@@ -1,4 +1,4 @@
-setTimeout(hideSplash, 1000);
+setTimeout(hideSplash, 3000);
 
 function hideSplash() {
   loadImageWithMap('start.png', 'start-map');
