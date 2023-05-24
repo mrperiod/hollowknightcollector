@@ -14,7 +14,7 @@
   "name": "HK Collector",
   "shortname": "HK Collector",
   "id": "/hkc/?source=pwa",
-  "start_url": "/hkc/",
+  "start_url": "/hollowknightcollector/",
   "background_color": "#3367D6",
   "display": "fullscreen",
   "scope": "/",
